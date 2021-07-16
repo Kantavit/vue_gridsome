@@ -114,5 +114,7 @@ module.exports = {
   },
   chainWebpack: config => {
       config.resolve.alias.set('@pageImage', '@/assets/images');
-  }
+  },
+  siteUrl: 'https://Kantavit.github.io',
+  pathPrefix: '/vue_gridsome'
 }
