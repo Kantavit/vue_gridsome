@@ -1,0 +1,14 @@
+{
+    "social" : [
+        {
+            "name": "Facebook",
+            "link": "https://www.facebook.com",
+            "icon": "facebook-square"
+        },
+        {
+            "name": "Github",
+            "link": "https://github.com/",
+            "icon": "github"
+        }
+    ]
+}
