@@ -8,7 +8,7 @@ module.exports = {
   siteName: 'Songkhla Travel Guide',
   siteDescription: "แนะนำสถานที่ท่องเที่ยวในจังหวัดสงขลา",
   siteUrl: 'https://Kantavit.github.io',
-  pathPrefix: '/<your-gridsome-repo-name>',
+  pathPrefix: '/vue_gridsome',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
@@ -114,7 +114,5 @@ module.exports = {
   },
   chainWebpack: config => {
       config.resolve.alias.set('@pageImage', '@/assets/images');
-  },
-  siteUrl: 'https://Kantavit.github.io',
-  pathPrefix: '/vue_gridsome'
+  }
 }
