@@ -1,3 +1,13 @@
+## Assignment 1: Your personal web page on Github
+
+####ใช้ Gridsome Starter ของ gridsome-starter-liebling
+
+####นาย กันตวิชญ์ เจนพิทยา รหัสนักศึกษา 6110110019 Sec 01
+
+>Github Deploy: https://kantavit.github.io/vue_gridsome/
+
+<hr />
+
 <div align="center">
 
 <a href="https://www.jammeryhq.com" title="JammeryHQ" target="_blank">
